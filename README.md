@@ -53,7 +53,7 @@ $ npm run prod
  >/postman/Z-Tech.postman_collection.json
  
  
- O número das contas é criado randomicamente, logo bastar acessar o folder Account e cria 2 usuarios que 2 contas serão criadas. Depois basta acessar o endpoint para listar os contas e verificar as contas e usuários donos delas. 
+ O número das contas é criado randomicamente, logo bastar acessar o folder Account e criar 2 usuarios para que 2 contas sejam criadas. Depois basta acessar o endpoint para listar os contas e verificar as contas e usuários donos delas. 
  
  ---
  # Rotas da Aplicação
